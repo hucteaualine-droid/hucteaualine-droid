@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hucteaualine-droid&label=Profile%20views&color=0e75b6&style=flat" alt="hucteaualine-droid" /> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Méthode Agile**
 
 - 📫 How to reach me **hucteau.aline@gmail.com**
 
