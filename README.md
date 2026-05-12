@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aline</h1>
-<h3 align="center">QA Software tester. Training in progress at ENI school. Open to work on 6th April 2026</h3>
+<h3 align="center">QA Software tester. Training in progress at ENI school. Open to work on 22th June 2026</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hucteaualine-droid&label=Profile%20views&color=0e75b6&style=flat" alt="hucteaualine-droid" /> </p>
 
-- 🌱 I’m currently learning **Appium**
+- 🌱 I’m currently learning **Playwright**
 
 - 📫 How to reach me **hucteau.aline@gmail.com**
 
